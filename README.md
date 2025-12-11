@@ -17,10 +17,10 @@ It is an entry to the hackpad program
 Here is the pcb i designed for my macropad
 
 Schematic
-<img src=assets/Schematic_TW_v1.0.png alt="Schematic" width="400">
+<img src=Assets/Schematic_TW_v1.0.png alt="Schematic" width="400">
 
 PCB
-<img src=assets/Pcb_TW_v1.0.png alt="PCB" width="400">
+<img src=Assets/Pcb_TW_v1.0.png alt="PCB" width="400">
 
 ## Firmware
 
