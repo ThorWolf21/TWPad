@@ -12,7 +12,7 @@ It is an entry to the hackpad program
 
 ## CAD Model
 
-Work in progress
+Done  but not testfitted
 
 ## PCB
 Here is the pcb i designed for my macropad
