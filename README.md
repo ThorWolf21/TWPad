@@ -49,7 +49,7 @@ PCB:
 
 ## Firmware
 
-Planned to do later probably kmk
+Done kmk w basic test layout btns writing 1-9
 
 ---
 
