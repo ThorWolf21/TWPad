@@ -78,6 +78,7 @@ encoder_handler.on_move_do = layer_switching_encoder
 keyboard.modules.append(encoder_handler)
 
 # Define the keymap for the keyboard
+# The keymap is not done yet i dont know what i want on it
 keyboard.keymap = [
     # Layer 0 (base layer)
     [
