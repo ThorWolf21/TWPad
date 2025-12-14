@@ -17,7 +17,13 @@ It is an entry to the hackpad program
 
 ## CAD Model
 
-Done and sorta testfitted
+Here is some pictures of the parts and the testfit
+
+<img src=Assets/TWPad_CAD-Top.png alt="top plate cad" width="500">
+
+<img src=Assets/TWPad_CAD-Bottom.png alt="bottom/case cad" width="500">
+
+<img src=Assets/TWPad_CAD-Testfit.png alt="testfit cad" width="500">
 
 ---
 
