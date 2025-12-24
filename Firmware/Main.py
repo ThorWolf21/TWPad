@@ -42,7 +42,7 @@ encoder_handler.pins = (
 encoder_handler.map = [
     ( # Layer 0 (base layer)
         (KC.NO, KC.NO, KC.NO), # Encoder 1 actions (Layer switching)
-        (KC.LCTL(KC.UP), KC.LCTL(KC.DOWN), KC.NO)  # Encoder 2 actions (Scroolling)
+        (KC.LCTL(KC.UP), KC.LCTL(KC.DOWN), KC.NO)  # Encoder 2 actions (Scrolling)
     )
     ( # Layer 1
         (KC.NO, KC.NO, KC.NO), # Encoder 1 actions (Layer switching)
