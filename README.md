@@ -6,6 +6,12 @@ It is an entry to the hackpad program
 
 ---
 
+**📂 Part of my [Project Portfolio](https://github.com/ThorWolf21/Project-overview)**
+
+Check out my other keyboards and projects!
+
+---
+
 ## Features
 
 - 3D printed case
